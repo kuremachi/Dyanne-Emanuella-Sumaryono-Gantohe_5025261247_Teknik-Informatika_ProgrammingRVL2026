@@ -6,7 +6,7 @@ NRP : 5025261247
 ## Assignment 1: OOP-based Project
 Console-based game ***"Tabas Pet Simulator"***
 
-[Click here for the source code.](https://github.com/kuremachi/Project-1---OOP/blob/master/tabasPetSim.cpp)
+[Click here for the source code.](https://github.com/kuremachi/Dyanne-Emanuella-Sumaryono-Gantohe_5025261247_Teknik-Informatika_ProgrammingRVL2026/blob/master/endEffectorCoord.cpp)
 
 **How to Play**
 
@@ -28,4 +28,4 @@ Uploaded on Google Drive [here.](https://drive.google.com/file/d/1R-3PVAHEH6-dyd
 
 Calculate the End Effector coordinates using prior knowledge of arm/link length and angle. Works for any DOF.
 
-[Click here for the source code.](https://github.com/kuremachi/Project-1---OOP/blob/master/endEffectorCoord.cpp)
+[Click here for the source code.](https://github.com/kuremachi/Dyanne-Emanuella-Sumaryono-Gantohe_5025261247_Teknik-Informatika_ProgrammingRVL2026/blob/master/tabasPetSim.cpp)
